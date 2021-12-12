@@ -1,6 +1,28 @@
 {
-  "Monday": [],
-  "Tuesday": [],
+  "Monday": [
+    {
+      "title": "TS 강의 4강 듣기",
+      "check": false,
+      "id": 1
+    },
+    {
+      "title": "알고리즘8문제 풀기",
+      "check": 0,
+      "id": 3
+    },
+    {
+      "title": "자바스크립트 메소드 복습",
+      "check": 0,
+      "id": 4
+    }
+  ],
+  "Tuesday": [
+    {
+      "title": "TS강의 7강까지 듣기",
+      "check": false,
+      "id": 1
+    }
+  ],
   "Wednesday": [],
   "Thursday": [],
   "Friday": [],
